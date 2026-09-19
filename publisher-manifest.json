@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "d7145b628a27df725970db95",
+  "owner": "fcak4dfp",
+  "repo": "page-c1b2f49b90d38552abad95d9",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c1b2f49b90d38552abad95d9",
+      "a": "KyCloud",
+      "b": "ClashX官方下载",
+      "entity": "KyCloud",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "49d51f2dc11a8257a4eb810094945e6040fe853897807a0e3a6245b630e6e3a4",
+      "content": {
+        "primary_entity": "KyCloud",
+        "keyword1": "KyCloud",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端：桌面端、移动端和路由器场景分别对应不同订阅方式，先确认设备系统再导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "KyCloud 提供三档套餐与多端订阅配置，按设备需求选择合适方案，再依客户端文档完成导入即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，下一步配置订阅",
+          "AI_DESCRIPTION": "，提供 KyCloud 基础版、旗舰版与团队版三档套餐，按月或按年订阅，覆盖每月 100GB 到 1000GB 流量以及 3 到 20 台设备同时在线的需求。旗舰版含 IPLC 专线游戏加速优化与 7x24 优先工单支持，团队版面向多人协作提供 VIP 专属高带宽节点和企业定制路由。选择套餐后可依据所用设备与客户端文档配置订阅，桌面端、移动端和路由器各有对应导入方式。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三方面整理，方便快速定位适合自己的方案。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、支持 3 台设备，旗舰版每月 300GB、支持 5 台设备，团队版每月 1000GB、支持 20 台设备。",
+          "AI_FEATURE_TEXT_2": "单人或少量设备用基础版；看重流媒体解锁与游戏加速选旗舰版；多人团队或需要企业定制路由选团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，长期使用可按年付规划。",
+          "AI_FEATURE_TITLE_1": "流量与设备",
+          "AI_FEATURE_TITLE_2": "按场景选版本",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，按三步梳理选择服务、查看适配要求、依客户端文档配置订阅。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "KyCloud 提供覆盖桌面端、移动端和路由器场景的海外加速服务，三档套餐按流量、设备数量与线路质量区分。基础版适合单人轻量使用，旗舰版强化流媒体与游戏加速，团队版面向多人协作。",
+          "AI_HERO_SUBTITLE": "按需选择套餐，多端订阅配置",
+          "AI_HIGHLIGHT_1": "三档套餐，覆盖 3 至 20 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与优先工单",
+          "AI_HIGHLIGHT_3": "年付更省，支持流媒体与游戏加速",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年、旗舰版 ¥35/月或 ¥350/年、团队版 ¥85/月或 ¥850/年，按流量、设备和线路差异对比选择即可。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数量和是否需要流媒体或游戏加速，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看订阅导入所需的适配要求，确保当前设备能正常配置。",
+          "AI_STEP_TEXT_3": "按所用客户端文档导入订阅链接，完成节点选择与连接测试，之后即可在对应设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "KyCloud 多端加速订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "KyCloud 套餐如何区分？",
+          "AI_FAQ_ANSWER_1": "基础版月流量 100GB、3 台设备；旗舰版 300GB、5 台设备并含 IPLC 专线；团队版 1000GB、20 台设备，适合团队协作。",
+          "AI_FAQ_QUESTION_2": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_2": "三个版本的年付价格均为十个月月费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。",
+          "AI_FAQ_QUESTION_3": "订阅可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_3": "各套餐有对应的同时在线设备数上限，基础版 3 台、旗舰版 5 台、团队版 20 台，超出数量需升级套餐。",
+          "AI_FAQ_QUESTION_4": "如何导入订阅信息？",
+          "AI_FAQ_ANSWER_4": "在对应客户端内找到订阅配置入口，按照客户端文档提示粘贴订阅地址完成导入，不同客户端的菜单名称略有差异。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版适合企业或多成员共享使用，提供 1000GB 月流量、20 台设备、VIP 高带宽节点与专属客户经理支持。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "78c93ead981df4b7561ec63ebaf43a39bb29ded471bb904a294d7bc8d9b814b3",
+    "sitemap.xml": "2e3402d8ddb9453261799cd5ad897a749f63c2754cd6f669c4e0f21fab1d813d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "9f4289172ec7f4511b8f6265b616db4453573cef90f6af3840a748b4c8a71e65"
+}
